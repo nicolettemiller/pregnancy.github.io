@@ -1,2 +1,2 @@
 # pregnancy.github.io
-Mockup website for a UCSF pregnancy website
+Mockup for a pregnancy website
